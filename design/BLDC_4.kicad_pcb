@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew "(2016-02-09 BZR 6546)-product")
+(kicad_pcb (version 4) (host pcbnew 4.0.7-e1-6374~58~ubuntu14.04.1)
 
   (general
     (links 308)
     (no_connects 0)
-    (area 78.424999 79.924999 117.075001 145.075001)
+    (area 74.829999 78.090486 120.05056 145.9116)
     (thickness 1.6)
     (drawings 45)
     (tracks 1858)
@@ -79,7 +79,7 @@
     (pad_drill 3.048)
     (pad_to_mask_clearance 0)
     (aux_axis_origin 0 0)
-    (visible_elements FFFFBF7F)
+    (visible_elements FFFF3F7F)
     (pcbplotparams
       (layerselection 0x010fc_80000007)
       (usegerberextensions true)
