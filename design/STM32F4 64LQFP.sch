@@ -4441,4 +4441,8 @@ Text HLabel 4500 2050 0    60   Input ~ 0
 ADC_TEMP
 Text HLabel 4500 2150 0    60   3State ~ 0
 TX_SDA_NSS
+Text Label 7050 2050 0    60   ~ 0
+OSC_N
+Text Label 7050 2150 0    60   ~ 0
+OSC_P
 $EndSCHEMATC

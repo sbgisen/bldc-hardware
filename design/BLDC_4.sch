@@ -261,7 +261,7 @@ F 3 "" H 2800 2900 60  0001 C CNN
 $EndComp
 Text Notes 2150 2900 0    40   ~ 0
 Mount 0R if used\nas USB host
-Text Notes 2700 3150 0    40   ~ 0
+Text Notes 2700 3200 0    40   ~ 0
 ESD protection?\n
 $Sheet
 S 8650 2350 1400 1800
@@ -5127,4 +5127,12 @@ Wire Wire Line
 	3250 5850 1450 5850
 Text Label 1450 5850 0    40   ~ 0
 MISO_RX_SCL
+Text Label 1600 3150 0    60   ~ 0
+USB_O_P
+Text Label 2750 3050 0    60   ~ 0
+USB_I_N
+Text Label 1600 3050 0    60   ~ 0
+USB_O_N
+Text Label 2750 3150 0    60   ~ 0
+USB_I_P
 $EndSCHEMATC
